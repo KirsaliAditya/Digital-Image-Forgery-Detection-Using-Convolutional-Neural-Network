@@ -15,7 +15,7 @@ In Here I didn't added vgg16(classification and segmentation weights) because th
 
 
 In here I used three types of algorithms. 1st one is vgg16 in this project vgg16 is used for classsification and semantic segmentation. For getting good result I also applied 
-random forest classifier.
+random forest classifier. For segmentation using  vgg16 I implemented two layers of vgg16 and rf Classifer.
 2nd algorihtm is Unet it get good accuracy compared to unet .
 But vgg16 finally acheived good resullts . so in gui final test button I add these two algorithms(vgg16 classification and segmentation).
 
