@@ -1,0 +1,17 @@
+This are mandatory requirements
+python idle-3.7
+tensorflow-2.2.0 
+keras2.4.3,
+matplotlib
+cv2
+tkinter
+pandas
+numpy
+PIL
+
+
+And also Graphics card also important for running vgg16 in your system if you not having graphics you may 
+get soe errors. 
+
+
+
